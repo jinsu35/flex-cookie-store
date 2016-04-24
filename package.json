@@ -1,11 +1,11 @@
 {
-  "name": "tough-cookie-store",
+  "name": "flex-cookie-store",
   "version": "0.0.6",
   "description": "file store for tough-cookie, edit on mitsuru/tough-cookie-filestore",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cath-gh/tough-cookie-store.git"
+    "url": "git+https://github.com/jnsu/flex-cookie-store.git"
   },
   "keywords": [
     "cookie",
